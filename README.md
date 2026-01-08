@@ -11,13 +11,7 @@ The dashboard provides insights into app distribution, user engagement, ratings,
 - GitHub (Documentation)
 
 ## Data Source
-The dataset contains information about Google Play Store apps including:
-- App Category
-- Ratings
-- Reviews
-- Installs
-- Price (Free / Paid)
-- Content Rating
+https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 The data is stored in MongoDB Atlas and visualized using MongoDB Charts.
 
