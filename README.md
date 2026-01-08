@@ -1,29 +1,42 @@
-# mongodb-googleplay-analysis
-Fore School of Management, New Delhi
-# MongoDB Atlas & Charts Project – Google Play Store Analysis
+# MongoDB Atlas Dashboard – Google Play Store Apps Analysis
 
 ## Project Overview
-This project analyzes Google Play Store applications using MongoDB Atlas and MongoDB Charts.
-The dataset was uploaded to MongoDB Atlas, and interactive dashboards were created using MongoDB Charts.
-
-## Dataset
-Source: Google Play Store dataset (CSV format)
+This project uses MongoDB Atlas and MongoDB Charts to analyze a Google Play Store applications dataset.  
+The dashboard provides insights into app distribution, user engagement, ratings, pricing models, and category-wise trends.
 
 ## Tools Used
-- MongoDB Atlas (Database)
-- MongoDB Charts (Visualization)
-- GitHub (Project repository)
+- MongoDB Atlas
+- MongoDB Charts
+- Google Play Store Dataset
+- GitHub (Documentation)
 
-## Visualizations Created
-1. Average App Rating by Category
-2. App Installs by Category
-3. Distribution of Free vs Paid Apps
+## Data Source
+The dataset contains information about Google Play Store apps including:
+- App Category
+- Ratings
+- Reviews
+- Installs
+- Price (Free / Paid)
+- Content Rating
 
-## Key Insights
-- Most app categories have average ratings between 4.0–4.5.
-- Categories like Family and Business show high install counts.
-- Free apps dominate the Play Store compared to paid apps.
+The data is stored in MongoDB Atlas and visualized using MongoDB Charts.
 
-## MongoDB Links
-- MongoDB Atlas Project: (submitted separately)
-- MongoDB Charts Dashboard: (submitted separately)
+## Dashboard Insights
+Key analyses performed:
+- Total number of apps in the dataset
+- App installs distribution across categories
+- Average app rating by category
+- Average reviews by category
+- Free vs Paid app distribution
+- Relationship between ratings and reviews
+- Rating distribution across apps
+
+
+## MongoDB Atlas Project
+The dataset is hosted on MongoDB Atlas under Project 0.
+
+## MongoDB Charts Dashboard Link
+(Private / Instructor-access link shared separately)
+
+## Author
+Neha
